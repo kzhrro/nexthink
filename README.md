@@ -13,3 +13,4 @@
 
 
 <p>Feel free to explore the documentation examples and reach out with any feedback or inquiries.</p>
+<p>-- Antanina Kazhura</p>
