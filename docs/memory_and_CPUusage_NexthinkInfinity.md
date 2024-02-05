@@ -22,7 +22,7 @@ For Execution Events, CPU time is reported every 5 minutes after the creation of
         <th>Description</th>
     </tr>
     <tr>
-        <td>Average Memory usage per execution</td>
+        <td>Average memory usage per execution</td>
         <td>Aggregate</td>
         <td>User, device, application, executable, binary</td>
         <td>The average memory usage of all underlying executions divided by their cardinality.</td>
