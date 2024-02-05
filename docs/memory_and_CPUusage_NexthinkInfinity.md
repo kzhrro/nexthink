@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <h1>Memory and CPU usage - Nexthink Infinity (classic)</h1>
+    <h1>Memory and CPU usage (classic)</h1>
 </head>
   <body>
 <p>Efficiently managing hardware resources is essential for assessing device performance and its impact on the overall employee experience. This article provides insights into memory and Central Processing Unit (CPU) usage within the Nexthink Infinity platform, offering detailed metrics and explanations for effective resource allocation.
