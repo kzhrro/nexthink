@@ -10,5 +10,5 @@
 <p>Additionally, it is worth mentioning that users can zoom in on the asset by simply clicking on it. The current icon may not be instantly recognizable, so offering this information ensures a more intuitive and user-friendly experience.</p>
 <h3>Suggestion #3: Related topics</h3>
 <p>Optionally replace "Read more about Nexthink Infinity" with "Related topics".</p>
-<img width="657" alt="image" src="https://github.com/kzhrro/nexthink/assets/66939605/a723a3cd-b8ea-47c7-96b2-2c90e4be75a2">
+<img width="851" alt="image" src="https://github.com/kzhrro/nexthink/assets/66939605/349b5a81-5fba-45db-ab27-d524b7746738">
 <p>Introducing this naming convention will enhance clarity and ensure a consistent structure across all chapters in the documentation.</p>
