@@ -23,6 +23,12 @@ For Execution Events, CPU time is reported every 5 minutes after the creation of
         <th>Description</th>
     </tr>
     <tr>
+        <td>Average memory usage</td>
+        <td>Field</td>
+        <td>Execution</td>
+        <td>The average memory usage of the execution before aggregation.</td>
+    </tr>
+    <tr>
         <td>Average memory usage per execution</td>
         <td>Aggregate</td>
         <td>User, device, application, executable, binary</td>
@@ -33,12 +39,6 @@ For Execution Events, CPU time is reported every 5 minutes after the creation of
         <td>Field</td>
         <td>Binary</td>
         <td>The average memory usage of the underlying execution with a sampling rate of 5 minutes.</td>
-    </tr>
-    <tr>
-        <td>Average memory usage</td>
-        <td>Field</td>
-        <td>Execution</td>
-        <td>The average memory usage of the execution before aggregation.</td>
     </tr>
 </table>
 <p><i>Note: Nexthink calculates memory usage per process before potential aggregation, considering scenarios where a single binary may spawn multiple identical processes, resulting in higher total memory consumption.
