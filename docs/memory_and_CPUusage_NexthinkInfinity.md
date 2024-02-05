@@ -74,7 +74,7 @@ For Execution Events, CPU time is reported every 5 minutes after the creation of
         <td>The sum of the total CPU time of all executions divided by their duration within the scope of the selected object.</td>
     </tr>
     <tr>
-        <td>Average CPU usage (Deprecated)</td>
+        <td>Average CPU usage (deprecated)</td>
         <td>Field</td>
         <td>Binary</td>
         <td>Average CPU load of a binary over all logical processors, taking into account all its executions since the binary was first seen. Note that this value does not depend on the selected time frame.</td>
